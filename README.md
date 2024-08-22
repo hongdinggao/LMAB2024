@@ -2,8 +2,9 @@
 
 
 You can clone the repository:
-   ```bash
-   git clone https://github.com/hongdinggao/LMAB.git
+```bash
+git clone https://github.com/hongdinggao/LMAB.git
+```
 
 
 
